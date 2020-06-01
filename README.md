@@ -1,4 +1,6 @@
 # Omnet++ Projesi
  Djikstra Single Source Shortest Path Algorithm
  
- .cc dos
+ Vize2.cc  dosyasında algoritma kodu yer alıyor.
+ Vize2.ned dosyasında düğümlerin yapısı ve onla ilgili kodlar yer alıyor.
+ 
